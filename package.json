@@ -1,10 +1,10 @@
 {
-  "name": "Jest-Lesson",
+  "name": "jest-lesson",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "jest --watchAll",
+    "watch": "jest --watchAll dotenv/config",
     "test": "jest",
     "dev": "nodemon ./src",
     "start": "node ./src"
